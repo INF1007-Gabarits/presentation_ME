@@ -24,26 +24,42 @@ Il y a 10.53 % de "ca".
 ```
 
 2. En utilisant la librairie « Turtle », dessinez un arbre en utilisant la récursivité.
+    
     Ressources : https://docs.python.org/3.3/library/turtle.html
    
     Dessin:
+
     ![alt text](tree.gif)
     Résultat final:
+
     ![alt text](tree.png)
 
     Indices:
+
         - Remarquez comment l'arbre est dessiné
+
         - Remarquez que chaque branche est différente. On voit que plus on avance dans l'arbre
+
             - Plus la longueur des branches diminues
+
             - Plus l'épaisseur des branches diminues
+
             - Plus l'angle entre les branches diminues
+
         - Les fonctions de la librairie Turtle dont vous aurez besoin sont:
+
             - forward()
+
             - backward()
+
             - setheading()
+
             - color()
+
             - pensize()
+
             - right()
+
             - left()
 
 
