@@ -30,6 +30,7 @@ Il y a 10.53 % de "ca".
     Dessin:
 
     ![alt text](tree.gif)
+
     Résultat final:
 
     ![alt text](tree.png)
